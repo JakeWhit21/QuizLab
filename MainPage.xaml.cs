@@ -28,7 +28,6 @@
                 TallyScore();
             } else
             {
-                this is async test
                 TotalScore += Questions[QuestionsAsked - 1].Score;
                 AskNextQuestion();
             }
